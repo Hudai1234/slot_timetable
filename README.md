@@ -68,7 +68,7 @@ Execute the program using runserver command.
   <img src="logo.png" alt="Saveetha Engineering College Logo">
 
   <h2>Saveetha Engineering College</h2>
-  <h3>SLOT TIME TABLE - YOUR-NAME</h3>
+  <h3>SLOT TIME TABLE - Hudaifa mazhumia(212224040119)</h3>
 
   <!-- Time Table -->
   <table align="center">
@@ -163,7 +163,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![alt text](<Screenshot 2025-10-17 224340-1.png>)
+![alt text](<Screenshot 2025-10-17 230336-1.png>)
 
 
 
